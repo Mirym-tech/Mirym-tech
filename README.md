@@ -147,11 +147,10 @@ Tecnólogo Superior en Desarrollo de Software en el ITLA.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Mirym-tech/Mirym-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
-> 💡 **Para activar la serpiente:** Ve a tu repositorio → Actions → New workflow → pega el workflow de [platane/snk](https://github.com/platane/snk) y habilita GitHub Actions.
 
 ---
 
